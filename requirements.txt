@@ -1,0 +1,21 @@
+# Core LLM Framework
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-google-genai>=2.0.0
+langgraph>=0.2.0
+
+# Embeddings & Vector Store (for RAG)
+langchain-community>=0.3.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# Environment & Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Database
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+
+# Rich terminal output
+rich>=13.0.0

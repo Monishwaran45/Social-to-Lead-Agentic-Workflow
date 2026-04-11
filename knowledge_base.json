@@ -1,0 +1,59 @@
+{
+  "company": "AutoStream",
+  "tagline": "Automated video editing tools for content creators",
+  "plans": [
+    {
+      "name": "Basic Plan",
+      "price": "$29/month",
+      "features": [
+        "10 videos per month",
+        "720p resolution",
+        "Basic editing templates",
+        "Email support (business hours)"
+      ]
+    },
+    {
+      "name": "Pro Plan",
+      "price": "$79/month",
+      "features": [
+        "Unlimited videos",
+        "4K resolution",
+        "AI-powered captions",
+        "Priority rendering",
+        "24/7 dedicated support",
+        "Advanced editing templates",
+        "Custom branding"
+      ]
+    }
+  ],
+  "policies": [
+    "No refunds after 7 days of purchase",
+    "24/7 support is available only on the Pro plan",
+    "Basic plan users receive email support during business hours (9 AM – 6 PM EST)",
+    "All plans include a 7-day free trial",
+    "Users can upgrade or downgrade plans at any time",
+    "Data is retained for 30 days after account cancellation"
+  ],
+  "faq": [
+    {
+      "question": "What is AutoStream?",
+      "answer": "AutoStream is a SaaS platform that provides automated video editing tools designed specifically for content creators. It uses AI to streamline the editing process, saving creators hours of manual work."
+    },
+    {
+      "question": "What video formats are supported?",
+      "answer": "AutoStream supports MP4, MOV, AVI, and MKV formats for both import and export."
+    },
+    {
+      "question": "Can I cancel anytime?",
+      "answer": "Yes, you can cancel your subscription at any time. However, refunds are not available after 7 days of purchase."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes, all plans include a 7-day free trial so you can explore the features before committing."
+    },
+    {
+      "question": "What platforms does AutoStream support?",
+      "answer": "AutoStream supports exports optimized for YouTube, Instagram, TikTok, Twitter/X, and LinkedIn."
+    }
+  ]
+}
