@@ -289,6 +289,6 @@ This project is built as part of the **ServiceHive / Inflx** ML Intern Assignmen
 ---
 
 <p align="center">
-  <strong>Built with 🧠 by a Senior ML Engineer</strong><br>
+  <strong>Built with 🧠 by a Monish</strong><br>
   <em>ReAct-based structured prompting with guardrails and JSON outputs for reliable reasoning, controlled tool execution, and stateful conversation handling.</em>
 </p>
